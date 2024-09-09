@@ -1,5 +1,9 @@
 # Tarea-1-Algoco
 
-Para ejecutar el codigo, solo hay que usar
-g++ todo.cpp ;./a.out
-en la consola
+## Instrucciones para ejecutar el código
+
+Para compilar y ejecutar el código, puedes usar los siguientes comandos en la consola:
+
+```bash
+g++ todo.cpp -o salida
+./salida
